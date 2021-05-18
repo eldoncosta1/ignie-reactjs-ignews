@@ -19,6 +19,12 @@
 - Consumindo API do Stripe (SSR)
 - Static Site Generation (SSG)
 
+## Ouvindo webhooks
+
+- Webhooks no Stripe
+- Ouvindo eventos do Stripe
+- Salvando dados do evento no FaunaDB
+
 ## Executando aplicação
 
 Inicie o servidor de desenvolvimento:
