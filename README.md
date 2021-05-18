@@ -8,10 +8,20 @@
 
 ## Componentes e páginas
 
+- Header
+- SignInButton
+- Home
+- SubscribeButton
 
-## Getting Started
+## Integração com API
 
-First, run the development server:
+- Configurando Stripe
+- Consumindo API do Stripe (SSR)
+- Static Site Generation (SSG)
+
+## Executando aplicação
+
+Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
