@@ -1,4 +1,13 @@
-# Ignews
+# Ig.News - Aplicação Next.js para Leitura de Artigos para Usuários Inscritos
+
+## Estrutura básica da aplicação: 
+
+- Next.js
+- TypeScript
+- SASS
+
+## Componentes e páginas
+
 
 ## Getting Started
 
