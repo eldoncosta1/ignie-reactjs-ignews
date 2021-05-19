@@ -25,6 +25,11 @@
 - Ouvindo eventos do Stripe
 - Salvando dados do evento no FaunaDB
 
+## JAMStack
+
+- Trabalhando com CMS
+- Páginas estáticas
+
 ## Executando aplicação
 
 Inicie o servidor de desenvolvimento:
